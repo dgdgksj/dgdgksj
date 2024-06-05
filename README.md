@@ -1,7 +1,13 @@
-## Hi there 👋
+### Sujong kim
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhrxksro)](https://solved.ac/vhrxksro/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgdgksj&hide=contribs,prs)
+
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vhrxksro@gmail.com)](mailto:vhrxksro@gmail.com)
 
 <!--
-**dgdgksj/dgdgksj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vhrxksro/vhrxksro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
